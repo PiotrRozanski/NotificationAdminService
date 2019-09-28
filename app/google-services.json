@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1091724869001",
+    "firebase_url": "https://notificationservicetest-2c162.firebaseio.com",
+    "project_id": "notificationservicetest-2c162",
+    "storage_bucket": "notificationservicetest-2c162.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091724869001:android:b6e8b7b0bd9f2b1cd5f558",
+        "android_client_info": {
+          "package_name": "com.apator.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091724869001-rvs00dqbpvvcjhrn95iec6phvnvrrmg6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apator.myapplication",
+            "certificate_hash": "42ef8478d5b1d5791e49a6685c86aa43d36d032c"
+          }
+        },
+        {
+          "client_id": "1091724869001-3k0kied5o5835c0ff5ln38jijf89ptbj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtmfaUhyu9TO7zFXV9BYt1M_8jz3nHdyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091724869001-3k0kied5o5835c0ff5ln38jijf89ptbj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
